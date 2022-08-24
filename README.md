@@ -1,4 +1,4 @@
-# springboot-microservices
+# Microservices Developed in Springboot
 
 ## employee-service - Employee Microservice
 ## department-service - Department Microservice
